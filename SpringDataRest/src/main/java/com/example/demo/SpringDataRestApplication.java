@@ -8,7 +8,8 @@ public class SpringDataRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataRestApplication.class, args);
-		System.out.println('app is modified ');
+		System.out.println("app is modified ");
+
 	}
 
 }
